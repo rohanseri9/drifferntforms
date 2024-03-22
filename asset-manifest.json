@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rohanseri9/differntforms.git/static/css/main.dd1f8e32.css",
-    "main.js": "/rohanseri9/differntforms.git/static/js/main.03f20c8d.js",
-    "static/js/453.154b549a.chunk.js": "/rohanseri9/differntforms.git/static/js/453.154b549a.chunk.js",
-    "index.html": "/rohanseri9/differntforms.git/index.html",
-    "main.dd1f8e32.css.map": "/rohanseri9/differntforms.git/static/css/main.dd1f8e32.css.map",
-    "main.03f20c8d.js.map": "/rohanseri9/differntforms.git/static/js/main.03f20c8d.js.map",
-    "453.154b549a.chunk.js.map": "/rohanseri9/differntforms.git/static/js/453.154b549a.chunk.js.map"
+    "main.css": "/differntforms./static/css/main.dd1f8e32.css",
+    "main.js": "/differntforms./static/js/main.0e8bfcf3.js",
+    "static/js/453.154b549a.chunk.js": "/differntforms./static/js/453.154b549a.chunk.js",
+    "index.html": "/differntforms./index.html",
+    "main.dd1f8e32.css.map": "/differntforms./static/css/main.dd1f8e32.css.map",
+    "main.0e8bfcf3.js.map": "/differntforms./static/js/main.0e8bfcf3.js.map",
+    "453.154b549a.chunk.js.map": "/differntforms./static/js/453.154b549a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd1f8e32.css",
-    "static/js/main.03f20c8d.js"
+    "static/js/main.0e8bfcf3.js"
   ]
 }
